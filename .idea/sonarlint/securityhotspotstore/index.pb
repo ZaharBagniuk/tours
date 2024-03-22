@@ -136,3 +136,5 @@ D
 public/css/style.css,1/e/1ef0e38ec90181a17549647e1a67072ac5d804da
 S
 #.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
+9
+	readme.md,2/7/275d783e298228506068436512433d343feb52aa
